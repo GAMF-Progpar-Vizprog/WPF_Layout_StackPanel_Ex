@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace StackPanel_Example
+namespace WPF_Layout_StackPanel_Ex
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace StackPanel_Example
+namespace WPF_Layout_StackPanel_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
